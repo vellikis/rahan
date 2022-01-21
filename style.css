@@ -92,3 +92,18 @@ body {
     display: flex;
   }
 }
+
+.background {
+  min-height: 100vh;
+  background-image: url(https://user-images.githubusercontent.com/60029482/119781696-39a5cf00-bec3-11eb-8b2c-71df0e6afe34.gif);
+  background-position: center;
+  background-size: 100%;
+  overflow: hidden;
+  color: #5d3fd3;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
